@@ -67,7 +67,7 @@ public class AulaOperadoresExercicio {
         // 4. Verifique a aprovação do bônus (Atenção ao "NÃO ser devedor"!)
         boolean ganhaBonus = totalViagens > 10 && totalGasto >= 500 && !ehDevedor;
 
-                System.out.println("O cliente ganhou o bônus? " + ganhaBonus);
+                System.out.println("O cliente ganhou o bônus? " +ganhaBonus);
 
 
 
