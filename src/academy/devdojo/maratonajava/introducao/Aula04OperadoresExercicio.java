@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class AulaOperadoresExercicio {
+public class Aula04OperadoresExercicio {
     public static void main(String[] args) {
         int idade = 50;
         int numero = 2;
