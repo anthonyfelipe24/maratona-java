@@ -40,7 +40,7 @@ public class Aula05EstruturasCondicionais04 {
 //        }
 //        System.out.println("Resultado: " + resultado);
 //        System.out.println("Nota: " + nota);
-        double valorCompra = 255;
+        double valorCompra = 260;
         double desconto;
         double valorFinal;
         if (valorCompra <= 100) {
