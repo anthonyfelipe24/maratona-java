@@ -1,6 +1,6 @@
 # 🚀 Maratona Java - DevDojo
 
-![Java](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
+🧰 Stack & Ferramentas do Projeto Java (OpenJDK) | Git | GitHub
 
 
 Repositório dedicado ao registro da minha evolução técnico-prática no ecossistema **Java**, acompanhando a renomada *Maratona Java* do canal **DevDojo** (William Suane). O objetivo principal é consolidar uma base lógica e de arquitetura robusta para o desenvolvimento Back-End.
