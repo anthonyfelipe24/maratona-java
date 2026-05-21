@@ -15,8 +15,8 @@ public class Aula06EstruturasDeRepeticao04 {
             }
             System.out.println("parcela " + parcela + " R$ " + valorParcela);
         }
-       /*💡 Forma mental simples
-       🧠 Papel de cada parte
+       /* Forma mental simples
+        Papel de cada parte
         Parte	Função
         for	testa várias parcelas
         divisão calcula valor da parcela
