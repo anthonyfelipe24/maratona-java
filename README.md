@@ -33,7 +33,7 @@ Os códigos estão organizados seguindo as boas práticas e a arquitetura propos
 
 ## 🎯 Próximos Passos na Trilha
 
-- [ ] Concluir o módulo de Introdução (Estruturas e Arrays).
+- [x] Concluir o módulo de Introdução (Estruturas e Arrays).
 - [ ] Iniciar e dominar Programação Orientada a Objetos (POO): Classes, Métodos, Modificadores de Acesso (`private`, `public`), Herança e Polimorfismo.
 - [ ] Desenvolver os primeiros projetos práticos de terminal aplicando POO.
 
