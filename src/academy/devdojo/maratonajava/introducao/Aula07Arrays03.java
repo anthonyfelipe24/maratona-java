@@ -10,9 +10,12 @@ public class Aula07Arrays03 {
 //        for (int i = 0; i < numeros3.length; i++) {
 //            System.out.println("Indice " + i + ": " + numeros3[i]);
 //        }
-//      Esse é a versão simplificada do for.
-        for(int num : numeros3){
-            System.out.println(num);
+////      Esse é a versão simplificada do for.
+//        for(int num : numeros3){
+//            System.out.println(num);
+//        }
+        for (int num2 : numeros2){
+            System.out.println(num2);
         }
     }
 }
